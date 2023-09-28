@@ -24,6 +24,6 @@ btn.onclick=()=>{
     btn2.onclick=()=>{
         div.style.display="none"
     }
-
+console.log("slm tiçr");
 
 }
